@@ -22,11 +22,11 @@ html {
 
 body {
   margin: 0;
-  background: radial-gradient(#9D5900, #3D2200);
+  background:radial-gradient(#009d3f, #3e0000);
 }
 
 .page-title {
-  color: #FF6D00;
+  color: #5ecd17b8;
   font-family: Creepy, serif;
   font-weight: normal;
   text-align: center;
@@ -165,7 +165,7 @@ body {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  color: #FF6D00;
+  color: #5ecd17b8;
   font-family: Creepy, serif;
   transition: background-color 500ms, font-size 500ms;
 }
